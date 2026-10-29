@@ -1,16 +1,28 @@
-# 💫 About Me:
+# 💫 About Me
 
-<p align="center">
-  <img
-    src="src/binary-portrait.png"
-    width="280"
-    alt="Binary art portrait"
-  />
-</p>
-
-<small>
-👋<br><br>Hi, I'm Ashish Kumar, a Computer Science postgraduate and Full-Stack Developer passionate about building reliable, scalable, and user-focused software.<br><br> 💻 Currently working as a Full-Stack Developer Intern at ARTPARK @ IISc Bangalore, contributing to a real-time Dengue Surveillance & Analytics Dashboard.<br> ⚙️ I enjoy working primarily with Python, FastAPI, PostgreSQL, React.js, and REST APIs.<br> 🚀 Interested in building scalable backend systems, real-time applications, APIs, and data-driven products.<br> 🌐 Experienced with WebSockets, Redis, PostGIS, JWT authentication, Docker, and cloud deployment.<br> 📍 Built projects involving real-time communication, geospatial queries, analytics, and scalable API architecture.<br> 🧠 I enjoy solving engineering problems, debugging complex issues, and continuously improving system performance and code quality.<br> 🤖 Exploring AI-powered development tools and automation to make software development more efficient.<br> 🎯 Currently focused on strengthening my backend and system design skills while building production-ready applications.<br><br>> Build. Learn. Debug. Improve. Repeat. 🚀<br>
-
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img src="src/binary-portrait.png" width="320" alt="Binary art portrait" />
+    </td>
+    <td width="65%" valign="middle">
+      <h3>👋 Hi, I'm Ashish Kumar</h3>
+      <p>
+        Computer Science postgraduate and Associate Software Engineer passionate about building scalable, reliable, and production-ready applications.
+      </p>
+      <ul>
+        <li>💻 Associate Software Engineer at ARTPARK, IISc Bangalore.</li>
+        <li>⚙️ Backend development with Python, FastAPI, PostgreSQL, SQL, and REST APIs.</li>
+        <li>🌐 Full-stack development with React.js and TypeScript.</li>
+        <li>🗺️ Experience with PostGIS, Redis, WebSockets, and JWT authentication.</li>
+        <li>🐳 Working with Docker, Git, CI/CD, and cloud deployment.</li>
+        <li>🚀 Interested in scalable systems, API optimization, and system design.</li>
+        <li>🤖 Exploring AI-powered development tools and agentic workflows.</li>
+      </ul>
+      <p><b>Build. Learn. Debug. Optimize. Repeat. ⚡</b></p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-772797231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishsingh3363@gmail.com) 
